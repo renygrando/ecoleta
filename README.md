@@ -11,7 +11,7 @@
 ## 
 <img align="center" src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" alt=".NLW">
 
-![NLW](https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg)
+<span style="display:block;text-align:center"> ![NLW](https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg) </span>
 
 # Principais aprendizados
 
