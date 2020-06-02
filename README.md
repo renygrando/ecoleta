@@ -10,7 +10,7 @@
 
 ## 
 <div style="text-align:center">
-<img align="center" src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" alt=".NLW">
+<img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" alt=".NLW">
 </div>
 
 ![NLW](https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg)
