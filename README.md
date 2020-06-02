@@ -9,9 +9,11 @@
 "Mão na massa" da Next Level Week **NLW** [**_Rocketseat_**](https://rocketseat.com.br) :purple_heart: :rocket: :computer: 
 
 ## 
+<div style="text-align:center">
 <img align="center" src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg" alt=".NLW">
+</div>
 
-<span style="display:block;text-align:center"> ![NLW](https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg) </span>
+![NLW](https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg)
 
 # Principais aprendizados
 
