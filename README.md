@@ -2,9 +2,7 @@
 ---
 # O projeto  
 
-:recycle:
-
-**|| Ecoleta ||**  Marketplace de coleta de resíduos.
+:recycle: **|| Ecoleta ||**  Marketplace de coleta de resíduos.
 
 ## Conteúdo:
 
