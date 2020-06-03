@@ -15,4 +15,5 @@
 # Principais aprendizados
 
 - [x] `HTML e CSS`: Renderizando o HTML de acordo com o layout proposto pelo desafio; 
+- [x] `Javascript`: Utilizando API do IBGE para informar Estado e Município.
 
