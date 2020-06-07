@@ -1,4 +1,4 @@
-![Ecoleta](https://github.com/renygrando/ecoleta/blob/master/assets/ecoleta.png?raw=true)
+![Ecoleta](https://github.com/renygrando/ecoleta/blob/master/public/assets/ecoleta.png?raw=true)
 ---
 # O projeto  
 
